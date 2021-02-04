@@ -1,4 +1,5 @@
-# Celeste
+#G
+ Celeste
 This repo is used to track issues and bugs with [Celeste](http://www.celestegame.com/). Before submitting an issue, please check the [Celeste changelog](http://www.celestegame.com/changelog.html) and closed issues to see if it has already been fixed.
 
 ### Info & Links
